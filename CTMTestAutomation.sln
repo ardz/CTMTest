@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTM.TestAutomation.Core", "CTM.TestAutomation.Core\CTM.TestAutomation.Core.csproj", "{3BA46A0E-BF22-43EC-A9EA-529ADBDEB1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTM.TestAutomation.Adapter.Energy", "CTM.TestAutomation.Adapter.Energy\CTM.TestAutomation.Adapter.Energy.csproj", "{21A5CAB7-FD44-47AE-BAF9-C88E8D2CC9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTM.TestAutomation.TestPlan.Energy", "CTM.TestAutomation.TestPlan.Energy\CTM.TestAutomation.TestPlan.Energy.csproj", "{415757FC-4C9A-44E6-B090-1ED2F9386F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA46A0E-BF22-43EC-A9EA-529ADBDEB1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA46A0E-BF22-43EC-A9EA-529ADBDEB1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA46A0E-BF22-43EC-A9EA-529ADBDEB1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA46A0E-BF22-43EC-A9EA-529ADBDEB1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A5CAB7-FD44-47AE-BAF9-C88E8D2CC9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A5CAB7-FD44-47AE-BAF9-C88E8D2CC9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A5CAB7-FD44-47AE-BAF9-C88E8D2CC9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A5CAB7-FD44-47AE-BAF9-C88E8D2CC9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415757FC-4C9A-44E6-B090-1ED2F9386F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415757FC-4C9A-44E6-B090-1ED2F9386F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415757FC-4C9A-44E6-B090-1ED2F9386F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415757FC-4C9A-44E6-B090-1ED2F9386F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

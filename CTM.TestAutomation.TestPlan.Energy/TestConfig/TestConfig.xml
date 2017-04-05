@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <testSettings>
+    <add key="BrowserType" value="Firefox"/>
+    <!-- Valid Values: Firefox, Chrome, IE, Edge-->
+    <add key="ExplicitWaitTimeOut" value="30"/>
+    <add key="ImplicitWaitTimeOut" value="30"/>
+    <!-- Start Applications Under Test Base Urls-->
+    <add key="AutBaseUrl" value="https://energy.comparethemarket.com/energy/v2/"/>
+    <!-- End Applications Under Test Base Urls-->
+  </testSettings>
+</configuration>
