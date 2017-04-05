@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <testSettings>
-    <add key="BrowserType" value="Firefox"/>
+    <add key="BrowserType" value="Chrome"/>
     <!-- Valid Values: Firefox, Chrome, IE, Edge-->
     <add key="ExplicitWaitTimeOut" value="30"/>
     <add key="ImplicitWaitTimeOut" value="30"/>
